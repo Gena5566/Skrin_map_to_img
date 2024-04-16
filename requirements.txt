@@ -1,0 +1,10 @@
+requests
+tkintermapview
+geopy
+googlemaps
+geocoder
+folium
+pygeocoder
+matplotlib
+selenium
+
